@@ -1,0 +1,84 @@
+@media (max-width: 768px) {
+  .LoginBtn {
+    margin-right: auto;
+  }
+  .titleForm {
+    text-align: center;
+  }
+  .cardIcon {
+    width: 100%;
+    height: 200px;
+    z-index: 999;
+  }
+  .imgeBackgerandMolie {
+    background-color: #fffbeb;
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    top: 90%;
+    background: #fffbeb;
+  }
+}
+
+@media (min-width: 768px) {
+  .cardIcon {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    right: 55%;
+    z-index: 999;
+  }
+  .ColorColm span {
+    background-color: #fffbeb;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    top: -100px;
+  }
+}
+
+html,
+body {
+  font-family: ShabnamFD !important;
+  font-size: 14px;
+  direction: rtl;
+  text-align: right;
+  overflow-x: hidden;
+}
+
+.userIcon {
+  width: 17px;
+  height: 17px;
+}
+
+.LoginBtn {
+  color: #000000 !important;
+  z-index: 3;
+}
+
+.LoginBtn p {
+  padding: 0px;
+  margin: 0px !important;
+}
+
+.Nameapp {
+  margin: 0 auto;
+}
+
+.Nameapp h1 {
+  font-size: 16px;
+}
+
+button {
+  border-radius: 25px !important;
+}
+
+.ColorColm {
+  background-color: #fffbeb;
+  padding: 0px;
+}
+
+.FormSecones {
+  min-height: 190px;
+}
+/*# sourceMappingURL=index.css.map */

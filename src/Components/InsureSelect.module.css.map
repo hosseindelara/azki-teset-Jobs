@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,gBAAgB,CAAA;EACZ,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "InsureSelect.module.scss"
+    ],
+    "names": [],
+    "file": "InsureSelect.module.css"
+}

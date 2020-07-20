@@ -1,0 +1,25 @@
+@media(max-width: 768px) {
+    .LoginBtn {
+        margin-right: auto;
+    }
+
+    .titleForm {
+        text-align: center;
+    }
+
+    .cardIcon {
+        width: 100%;
+        height: 200px;
+        z-index: 999;
+    }
+
+    .imgeBackgerandMolie {
+        background-color: #fffbeb;
+        position: absolute;
+        width: 100%;
+        height: 50px;
+        top: 90%;
+        background: #fffbeb;
+    }
+
+}

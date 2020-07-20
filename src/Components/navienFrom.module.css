@@ -1,0 +1,10 @@
+.arrownext {
+  width: 20px;
+}
+
+.arrowback {
+  width: 20px;
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+/*# sourceMappingURL=navienFrom.module.css.map */

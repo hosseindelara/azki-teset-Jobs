@@ -1,0 +1,49 @@
+@import'./MobileSize';
+@import './OtherSize';
+
+html,
+body {
+    font-family: ShabnamFD !important;
+    font-size: 14px;
+    direction: rtl;
+    text-align: right;
+    overflow-x: hidden;
+}
+
+.userIcon {
+    width: 17px;
+    height: 17px;
+}
+
+.LoginBtn {
+    color: #000000 !important;
+    z-index: 3;
+
+    p {
+        padding: 0px;
+        margin: 0px !important;
+    }
+}
+
+.Nameapp {
+    margin: 0 auto;
+
+    h1 {
+
+        font-size: 16px;
+    }
+}
+
+button {
+    border-radius: 25px !important;
+}
+
+
+.ColorColm {
+    background-color: #fffbeb;
+    padding: 0px;
+}
+
+.FormSecones {
+    min-height: 190px;
+}

@@ -1,0 +1,20 @@
+@media(min-width: 768px) {
+    .cardIcon {
+        position: relative;
+        width: 100%;
+        height: 200px;
+        right: 55%;
+        z-index: 999;
+    }
+
+    .ColorColm {
+
+        span {
+            background-color: #fffbeb;
+            width: 100%;
+            height: 100px;
+            position: absolute;
+            top: -100px;
+        }
+    }
+}
